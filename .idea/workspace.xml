@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93e07e83-23a8-41ea-be04-95416ddb15e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.19.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQLinjection-Parsing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SQLinjection-Parsing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.19.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SQLinjection-Parsing/com/imooc/jdbc/sample/StandardJDBCSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SQLinjection-Parsing/com/imooc/jdbc/sample/StandardJDBCSample.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/imooc/jdbc/sample/StandardJDBCSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/sample/StandardJDBCSample.java" afterDir="false" />
     </list>
@@ -84,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649169697812</updated>
-      <workItem from="1649169700462" duration="10889000" />
+      <workItem from="1649169700462" duration="11521000" />
     </task>
     <servers />
   </component>

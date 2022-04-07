@@ -7,7 +7,7 @@ public class StandardJDBCSample {
         Connection conn = null;
         try {
             //1,加载并注册JDBC驱动
-            Class.forName("com.mysql.cj.jdbc.Driver");
+            Class.forName("com.mysql.cj.jdbc.Driver"); //JDBC驱动类
             //2，创建数据库链接
             conn = DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/imooc?useSSL=false&useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai",
