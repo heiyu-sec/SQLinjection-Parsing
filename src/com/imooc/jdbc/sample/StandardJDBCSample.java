@@ -15,7 +15,7 @@ public class StandardJDBCSample {
             );
             //3，创建Statement对象
             Statement stmt = conn.createStatement();
-            ResultSet rs = stmt.executeQuery("select * from employee");
+            ResultSet rs = stmt.executeQuery("select * from employee where dname = '研发部'");
 
 
             //4，遍历查询结果
