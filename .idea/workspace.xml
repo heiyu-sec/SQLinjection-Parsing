@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93e07e83-23a8-41ea-be04-95416ddb15e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/hrapp/HumanResourceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/sample/ConnectionSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQLinjection-Parsing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SQLinjection-Parsing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.19.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SQLinjection-Parsing/com/imooc/jdbc/sample/StandardJDBCSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SQLinjection-Parsing/com/imooc/jdbc/sample/StandardJDBCSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imooc/jdbc/sample/StandardJDBCSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/sample/StandardJDBCSample.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +53,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ConnectionSample">
+    <configuration name="ConnectionSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.jdbc.sample.ConnectionSample" />
+      <module name="SQLinjection-Parsing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.jdbc.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StandardJDBCSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.imooc.jdbc.sample.StandardJDBCSample" />
       <module name="SQLinjection-Parsing" />
@@ -71,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConnectionSample" />
         <item itemvalue="Application.StandardJDBCSample" />
       </list>
     </recent_temporary>
@@ -85,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649169697812</updated>
-      <workItem from="1649169700462" duration="11521000" />
+      <workItem from="1649169700462" duration="14023000" />
     </task>
     <servers />
   </component>
