@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93e07e83-23a8-41ea-be04-95416ddb15e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/hrapp/HumanResourceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/sample/ConnectionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/hrapp/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/hrapp/command/PstmtQueryCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/hrapp/command/QueryCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/imooc/jdbc/hrapp/HumanResourceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/hrapp/HumanResourceApplication.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -34,9 +38,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.EditorConfig" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.jdbc.hrapp.command" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\HackCoding\SQLinjection-Parsing\lib" />
     </key>
@@ -53,13 +60,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConnectionSample">
+  <component name="RunManager" selected="Application.HumanResourceApplication">
     <configuration name="ConnectionSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.imooc.jdbc.sample.ConnectionSample" />
       <module name="SQLinjection-Parsing" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.imooc.jdbc.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HumanResourceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.jdbc.hrapp.HumanResourceApplication" />
+      <module name="SQLinjection-Parsing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.jdbc.hrapp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,8 +102,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConnectionSample" />
+        <item itemvalue="Application.HumanResourceApplication" />
         <item itemvalue="Application.StandardJDBCSample" />
+        <item itemvalue="Application.ConnectionSample" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +118,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649169697812</updated>
-      <workItem from="1649169700462" duration="14023000" />
+      <workItem from="1649169700462" duration="23408000" />
     </task>
     <servers />
   </component>

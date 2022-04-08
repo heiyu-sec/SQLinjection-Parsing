@@ -1,2 +1,2 @@
 # SQLinjection-Parsing
-JAVA白盒SQL注入测试解析
+个人通过实现JAVA的CURD功能，完成和mysql的链接，在此基础上增加SQL注入的相关功能，通过自我博弈的过程中，不但可以增加自己JAVA coding的能力，也对SQL注入的整体流程和防范做到白盒级的理解。
