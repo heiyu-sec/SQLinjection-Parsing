@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93e07e83-23a8-41ea-be04-95416ddb15e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/common/DbUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/hrapp/command/InsertCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/hrapp/command/DeleteCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/hrapp/command/UpdateCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SQLinjection-Parsing/com/imooc/jdbc/hrapp/HumanResourceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SQLinjection-Parsing/com/imooc/jdbc/hrapp/HumanResourceApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/imooc/jdbc/hrapp/HumanResourceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/hrapp/HumanResourceApplication.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -116,7 +117,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649169697812</updated>
-      <workItem from="1649169700462" duration="28340000" />
+      <workItem from="1649169700462" duration="31254000" />
     </task>
     <servers />
   </component>
