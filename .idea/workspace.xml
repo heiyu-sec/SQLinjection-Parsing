@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93e07e83-23a8-41ea-be04-95416ddb15e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/hrapp/command/DeleteCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/hrapp/command/UpdateCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/sample/TransactionSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SQLinjection-Parsing/com/imooc/jdbc/hrapp/HumanResourceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SQLinjection-Parsing/com/imooc/jdbc/hrapp/HumanResourceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/imooc/jdbc/hrapp/HumanResourceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imooc/jdbc/hrapp/HumanResourceApplication.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +30,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-8.0.19.jar!/" />
+    <property name="last_opened_file_path" value="G:/掌控安全/十五期课件/9.5 代码执行/DouPHP_1.5_Release_20190711" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -59,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HumanResourceApplication">
+  <component name="RunManager" selected="Application.TransactionSample">
     <configuration name="ConnectionSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.imooc.jdbc.sample.ConnectionSample" />
       <module name="SQLinjection-Parsing" />
@@ -99,8 +96,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TransactionSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.jdbc.sample.TransactionSample" />
+      <module name="SQLinjection-Parsing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.jdbc.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TransactionSample" />
         <item itemvalue="Application.HumanResourceApplication" />
         <item itemvalue="Application.StandardJDBCSample" />
         <item itemvalue="Application.ConnectionSample" />
@@ -117,7 +128,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649169697812</updated>
-      <workItem from="1649169700462" duration="31254000" />
+      <workItem from="1649169700462" duration="33132000" />
+      <workItem from="1649666516074" duration="5588000" />
     </task>
     <servers />
   </component>
@@ -129,7 +141,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
